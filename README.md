@@ -1,4 +1,4 @@
-Artificial Neural Network on [Wine Dataset](!https://archive.ics.uci.edu/ml/datasets/wine)
+Artificial Neural Network on [Wine Dataset](https://archive.ics.uci.edu/ml/datasets/wine)
 Its built from scratch using Keras in Python.
 The attributes are 
 1) Alcohol
@@ -14,6 +14,8 @@ The attributes are
 11)Hue
 12)OD280/OD315 of diluted wines
 13)Proline
+<br/>
+
 During data preprocessing phase, I have used feature elimination techniqes via Exploratory Data Analysis(EDA) and data visualization to reduce Computational Time to a greater extent.
 
 ## Download Dataset: [Wine Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/)
